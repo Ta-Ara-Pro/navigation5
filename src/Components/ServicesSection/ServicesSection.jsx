@@ -7,9 +7,12 @@ import icon4 from '../../Assets/icon14.png';
 import icon5 from '../../Assets/icon15.png';
 import icon6 from '../../Assets/icon16.png';
 import { useTranslation } from 'react-i18next';
+import { useNavigate } from 'react-router-dom';
 
 const ServicesSection = () => {
   const { t } = useTranslation();
+      const navigate = useNavigate();
+  
 
   const services = [
     {
@@ -64,10 +67,10 @@ const ServicesSection = () => {
         </div>
 
         <div className="services-button">
-          <button className="cta-button-interim">
+          <button className="cta-button-interim" onClick={() => navigate('/interim#Interim-hero')}>
             {t('servicesSection.cta1')} <span>→</span>
           </button>
-          <button className="cta-button-services">
+          <button className="cta-button-services" onClick={() => navigate('/consulting#consulting-hero')}>
             {t('servicesSection.cta2')} <span>→</span>
           </button>
         </div>
