@@ -1,0 +1,468 @@
+{
+  "interim0": "Interim CMO & CBO",
+  "Consulting": "Consulting",
+  "experience": "Experience",
+  "about": "About",
+  "Contact us": "Contact us",
+  "contact_title": "Get in touch",
+  "drop_message": "Drop me a message",
+  "response_note": "I will get back to you as soon as possible.",
+  "full_name": "Full Name",
+  "company_name": "Company Name",
+  "work_email": "Work Email",
+  "subject": "Subject",
+  "message": "Message",
+  "send": "Send",
+  "phone_label": "Support",
+  "email_label": "Booking Enquiry",
+  "about_title": "About THE BRAND NAVIGATION",
+  "about_intro_1": "Interim CMO & CBO services for companies in transition.",
+  "about_intro_2": "Consultancy services for Marketing, Brand and MarTech with a strategic focus on the future.",
+  "about_deliver": "What I deliver:",
+  "about_items": [
+    "Clear positioning",
+    "Scalable strategy",
+    "Integrated MarTech",
+    "Aligned teams",
+    "Measurable growth"
+  ],
+  "about_impact": "Executive-level impact. When and where it matters.",
+  "step_marketing": "Marketing",
+  "step_marketing2": "Leadership",
+  "step_reference": "References\n/Brands",
+  "step_target": "Target Group",
+  "step_collaborative": "Vision\nMission\nValues",
+  "interim-title": "Marketing Leadership",
+    "intro": "I lead marketing through change – flexibly, fast, and outcome-focused.\nFrom transformation to market entry, I drive strategic clarity, execution, and continuity.",
+    "point1": "Core strength: C-level marketing leadership, Complex project delivery.",
+    "point2": "Industry focus: Automotive & mobility, B2B, hospitality.",
+    "point3": "Network: A trusted network of strategists, creatives, and tech specialists.",
+    "alt": {
+    "strategy": "Marketing Strategy",
+    "flag": "Flag Icon",
+    "health": "Health Icon",
+    "route": "Route Icon",
+    "network": "Network Icon"
+  },
+  "title": "Interim Marketing Leadership",
+  "intro_part1": "I lead marketing through change – flexibly, fast, and outcome-focused.",
+  "intro_part2": "From transformation to market entry, I drive strategic clarity, execution, and continuity.",
+  "points": {
+    "core_strength": {
+      "title": "Core strength:",
+      "description": "C-level marketing leadership, Complex project delivery."
+    },
+    "industry_focus": {
+      "title": "Industry focus:",
+      "description": "Automotive industry with a focus on electromobility; beverage industry (retail & gastronomy)."
+    },
+  
+    "network": {
+      "title": "Network:",
+      "description": "A trusted network of strategists, creatives, and tech specialists."
+    }
+  },
+  "sectionTitle": "TARGET GROUPS",
+  "sectionSubtitle": "Driving Brand Power and Marketing Performance — at Every Stage of Growth",
+
+  "startup": {
+    "title": "Start-up",
+    "offerTitle": "Offer for",
+    "subtitle": "Building Strategy from Day One",
+    "points": [
+      "Develop a clear marketing strategy and positioning to launch with impact.",
+      "Build a distinctive, scalable brand identity across channels.",
+      "Create marketing frameworks that grow with your business.",
+      "Align product, marketing, and sales from the start.",
+      "Provide flexible, senior leadership without long-term overhead."
+    ],
+    "footer":"Free",
+    "footerExp":"For the first appointment",
+    "button" : "Let's talk →"
+  },
+
+  "scaleups": {
+    "title": "Scale-ups",
+    "offerTitle": "Offer for",
+    "subtitle": "Structuring Growth for Success",
+    "points": [
+      "Strengthen marketing strategy to support fast expansion.",
+      "Professionalize brand management for consistency across markets.",
+      "Optimize marketing operations and internal collaboration.",
+      "Position innovation clearly to new and existing audiences.",
+      "Bring senior expertise to guide teams through scaling challenges."
+    ],
+    "footer":"Free",
+    "footerExp":"For the first appointment",
+    "button" : "Let's talk →"
+  },
+
+  "established": {
+    "title": "Established",
+    "offerTitle": "Offer for ",
+    "subtitle": "Refreshing Brand",
+    "points": [
+      "Reposition brand and marketing to adapt to changing markets.",
+      "Modernize brand management and customer experience strategies.",
+      "Break down silos between marketing, sales, and communications.",
+      "Lead digital transformation & AI initiatives aligned with brand goals.",
+      "Provide external leadership to drive change while preserving brand equity."
+    ],
+    "footer":"Free",
+    "footerExp":"For the first appointment",
+    "button" : "Let's talk →"
+  },
+
+
+  "leadership_main": "Collaborative Leadership",
+  "leadership_description": "My leadership style is inclusive and cross-functional – especially valuable during transformation, when alignment and clarity are key.",
+
+  "point_title_one": "Team Structuring",
+  "point_body_one": "I assess and optimize teams, close skill gaps, and align roles with strategic goals.",
+
+  "point_title_two": "Adaptability",
+  "point_body_two": "I quickly understand new industries and teams, driving change with clear strategy, strong communication, and sensitivity to context.",
+
+  "pillar_heading_one": "Mission",
+  "pillar_text_one": "I guide brands through change with clarity, creativity, and data-driven thinking—turning strategy into a compass, not a constraint.",
+
+  "pillar_heading_two": "Vision",
+  "pillar_text_two": "I believe in brand leadership as proactive navigation – agile, inspiring, and future-focused. Flexible brands create meaningful progress.",
+
+  "pillar_heading_three": "Values",
+  "pillar_text_three": "Agility – Change is the norm; adaptability is key. Foresight – I connect strategy with cultural and tech shifts. Clarity – Clear positioning and a distinct voice matter. Partnership – I work collaboratively, with trust and shared purpose. Strategy is a horizon, not a fixed route.",
+  
+  "ServiceCards": {
+    "card0": {
+      "label": "Your Label Here",
+      "description": "Your description here."
+    },
+    "card1": {
+      "label": "Your Label Here",
+      "description": "Your description here."
+    },
+    "card2": {
+      "label": "Your Label Here",
+      "items" : {
+        "agility": "Agility",
+        "foresight": "Foresight",
+        "clarity": "Clarity",
+        "partnership": "Partnership"
+      },
+      "description": {
+        "agility": "Change is the norm; adaptability is key.",
+        "foresight": "I connect strategy with cultural and tech shifts.",
+        "clarity": "Clear positioning and a distinct voice matter.",
+        "partnership": "I work collaboratively, with trust and shared purpose.",
+        "conclusion": "Strategy is a horizon, not a fixed route."
+      }
+    }
+  },
+  
+  
+  "headline_label": "References",
+  "caption_text": "Proven impact across global icons and challenger brands. I’ve led marketing and brand strategy for some of the world’s most respected companies—including Audi, Bugatti, Rimac, Henkell Freixenet, Heineken, and Gösser. Each engagement shaped by high standards, real results, and deep market understanding. My international background helps me navigate diverse cultural nuances and market dynamics.",
+  "globalExperienceDeclaration": "Professional Experience",
+  "strategicMarketSynopsis": "Strategy shaped by global markets, cultural insight, and hands-on leadership. Every market operates differently – and so should your marketing.",
+  "crossMarketAdvantageNote": "I bring in-depth experience from key European and Asian markets, each with its own pace, regulations, and customer expectations. This cross-market insight allows me to adapt strategies effectively while staying aligned with your global brand and business goals.",
+  "exp_austria_title": "Porsche Holding / Porsche Austria – Salzburg, Austria",
+  "exp_austria_desc": "Head of Audi Marketing Austria | Jun 2002 – Sep 2011",
+  "exp_austria_exp": "Led 360° marketing strategy and execution across Austria and CEE, including product launches, sales promotions, dealer events, and sponsorships (e.g., Audi FIS Ski World Cup, Salzburg Festival). Pioneered digital tools like Audi TV, mobile campaigns, and the 3D Car Configurator.",
+  "exp_austria_award": "Awarded by the Austrian Ministry for the quattro® brand campaign (Audi FIS Skiweltcup).",
+
+  "exp_germany_title": "Audi AG – Ingolstadt, Germany",
+  "exp_germany_desc": "Head of Brand Communication & Experiential Marketing | Oct 2015 – Jul 2019",
+  "exp_germany_exp": "Lead global brand experiences and campaigns with a €65M budget and 280K-unit sales volume. Delivered award-winning marketing strategies across live events, sports partnerships, and VIP activations. Strengthened product loyalty and brand recognition through emotional storytelling, digital engagement, and close collaboration with sales and product teams.",
+
+  "exp_croatia_france_title": "BUGATTI RIMAC d.o.o.– Zagreb & Molsheim",
+  "exp_croatia_france_desc": "Head of Marketing & Product Marketing | Jul 2022 – Dec 2024",
+  "exp_croatia_france_exp": "Reported directly to CEO Mate Rimac, leading global marketing strategy, team building, and campaign execution for both brands. Delivered brand growth through targeted marketing, CRM for UHNW/HNW clients, and strategic partnerships. Oversaw product marketing, KPIs, and long-term business planning to align with revenue and growth goals.",
+
+  "exp_china_title": "FAW-Volkswagen Audi Sales Division China – Beijing",
+  "exp_china_desc": "Vice President PR & Marketing / Product Marketing | Aug 2019 – Apr 2022",
+  "exp_china_exp": "Lead brand and marketing strategy for Audi China, aligning with AUDI AG. Managed a €300M budget and a high-performing marketing team. Oversaw brand positioning, campaigns, CRM, and digital transformation - including the national “e-tron Offensive” and a multi-city marketing restructure. Delivered double-digit revenue and EBIT growth in FY2022, elevating Audi to #2 in brand image across China.",
+
+  "exp_russia_title": "Volkswagen Group RUS / Audi Manufacturing Division – Russia",
+  "exp_russia_desc": "Marketing & Communications Director | Oct 2011 – Sep 2015",
+  "exp_russia_exp": "Lead integrated marketing strategy across digital, events, and sponsorship - including „Sochi 2014“. Created the award-winning “Russia, Land of quattro” campaign, adopted by 47 Audi markets worldwide. Focused on regional brand positioning for AWD/4WD SUV vehicles",
+  "exp_russia_award": "Global Effie Gold Award 2012/13 – NY American Marketing Association",
+
+  
+   
+  
+    "label_austria_germany": "Austria/\nGermany",
+    "label_croatia_france": "Croatia/\nFrance",
+    "label_china": "China",
+    "label_russia": "Russia"
+  ,
+  
+    "signpost": "Signpost",
+    "for": "for",
+    "growth": "growth.",
+  
+
+
+    "hero": {
+      "heading": "Navigating the intersection of\ngrowth, relevance, and agility",
+      "paragraph": "Brand strategy as your growth compass.\nWe navigate with vision, agility, and direction – never control.",
+      "button": "Get Free Appointment →"
+    },
+    "brands": {
+    "title": "Marketing Leadership at Global Brands",
+    "description": "I've lived and worked in Austria, Germany, Croatia, Russia, and China, collaborating with top brands.\nMy international background helps me navigate diverse cultural nuances and market dynamics.",
+    "moreButton": "More →"
+  },
+    "strategy": {
+      "heading": "Brand leadership is navigation – Not control",
+      "paragraph1": "Brands grow through direction, not rigidity.",
+      "paragraph2_part1": "Markets shift. Disruption happens. In a world of constant change, brand strategy must act as a compass — guiding without limiting.",
+      "paragraph2_strong": "THE BRAND NAVIGATION",
+      "paragraph2_part2": "embraces change as the norm. Like sailing, strong brand leadership means course-correcting, staying focused, and steering with vision.",
+      "paragraph2_part3": "There are no straight lines — just clarity of direction and the courage to adapt.",
+      "label": "Strategy",
+        "services": {
+          "0": {
+            "title": "Brand & Marketing Audit",
+            "description": "Evaluate current brand positioning, messaging, channels, and campaign performance."
+          },
+          "1": {
+            "title": "Go-to-Market Strategy Design",
+            "description": "Develop clear launch plans for new products, services, or markets, including audience segmentation, messaging, and channel mix."
+          },
+          "2": {
+            "title": "Customer Journey Mapping",
+            "description": "Map and analyze the full customer experience across digital and physical touchpoints."
+          }
+        }
+      },
+      "motivation": {
+    "heading": "Motivation",
+    "paragraph": "As a temporary executive, I aim to do more than just fill leadership gaps or manage strategic projects. I see my role as also acting as a role model in areas such as corporate culture and ethics. A key advantage I bring is knowledge transfer, developed through years of experience and frequent exposure to different corporate environments.\nI value the opportunity to create impact in a short time.",
+    "button": "More About Me →"
+  },
+  "why": {
+    "tag": "My aim",
+    "heading": "Why I Do This",
+    "description": "I'm not just here to fill gaps—I'm here to create momentum. As a fractional executive, I lead with purpose:",
+    "list": {
+      "0": "Driving culture, ethics, and strategic clarity",
+      "1": "I bring fresh perspective, fast impact, and a deep commitment to knowledge transfer",
+      "2": "I am shaped by years of navigating diverse corporate landscapes."
+    },
+    "button": "More →",
+    "chart_heading": "Key Benefits of Hiring a Fractional CMO/CBO",
+    "score_note": "Benefit Impact (simulated Score)"
+  },
+  
+    "benefits": [
+      "Cost Efficient",
+      "Time-Saving",
+      "Flexible & Scalable",
+      "Executive Impact",
+      "Objectivity"
+    ]
+  ,
+  
+  "servicesSection": {
+    "heading": "Get the best the services",
+    "subtitle": "Get Proven Marketing Leadership – from CMO to Growth Architect",
+    "description": "Bold. Outcome-focused. Spanning operational depth and strategic vision.",
+    "cta1": "Interim CMO & CBO",
+    "cta2": "Services",
+    "services": {
+      "0": {
+        "title": "Interim CMO & CBO",
+        "description": "Strategic leadership when brands need clarity, speed, and results in times of change, growth, or transition."
+      },
+      "1": {
+        "title": "Voice of the customer/Engagement",
+        "description": "Turn insights into action. I help you capture customer feedback, decode behavior, and translate it into meaningful brand and marketing strategies."
+      },
+      "2": {
+        "title": "Technology and Data",
+        "description": "Leverage the right tools, track what matters. I align tech stacks and data insights to optimize marketing performance and brand decisions."
+      },
+      "3": {
+        "title": "Brand Strategy",
+        "description": "Clarity drives growth. I define positioning, messaging, and brand architecture—built to adapt, resonate, and lead."
+      },
+      "4": {
+        "title": "Marketing Outreach",
+        "description": "Make every touchpoint count. I design campaigns and experiences that connect, engage, and convert—online and offline."
+      },
+      "5": {
+        "title": "Revenue Growth",
+        "description": "Marketing that delivers. I connect brand strategy with performance marketing to drive demand, increase conversions, and boost revenue."
+      }
+    }
+  },
+  "footer": {
+    "description": "Experience the difference and unlock\n growth. Navigate change.",
+    "mainPages": "Main Pages",
+    "pages": "Pages",
+    "nav": {
+      "home": "Home",
+      "consulting": "Consulting",
+      "interim": "Interim CMO\n& CBO",
+      "contact": "Get in Touch",
+      "about": "About",
+      "experience": "Experience"
+    },
+    "copyright": "Copyright ©2023 Flowbase.co"
+  },
+
+
+
+  "interim": {
+  "title": "Executive-Level Interim Leadership",
+  "description": "I take on CMO and CBO roles to lead marketing and brand in times of change. Creative. Strategic. Tech-savvy. Focused on growth.",
+  "steps": {
+    "why": "Why?",
+    "interimCMO": "Interim CMO",
+    "interimCBO": "Interim CBO",
+    "vs": "CMO vs CBO"
+  }
+  },
+
+    "InterimRoles": {
+      "titlePrefix": "What Is an Interim",
+      "deliverTitle": "What I Deliver as Interim {{role}}",
+      "planTitle": "Getting Started: 30/60/90-Day",
+      "planSubtitle": "Every brand is unique—but strategic onboarding follows a rhythm. Here’s how I typically approach the first 90 days:",
+      "plan": {
+        "foundationTitle": "Days 1–30: Foundation",
+        "foundationDesc": "Understand the brand from the inside out – culture, values, assets, and perception. Align with key stakeholders and assess brand health.",
+        "strategyTitle": "Days 31–60: Strategy",
+        "strategyDesc": "Shape brand positioning, messaging, and consistency. Define KPIs and align branding with business priorities.",
+        "activationTitle": "Days 61–90: Activation",
+        "activationDesc": "Launch internal brand engagement. Roll out consistency tools, training, and a forward-looking brand growth roadmap."
+      },
+      "metricsTitle": "CBO: Metrics That Matter",
+      "metricsSubtitle": "KPIs for Chief Brand Officers vary by industry and strategy, but these core metrics offer a solid foundation:",
+      "metricsNote": "These metrics define KPIs and measure progress toward goal — like increasing awareness or boosting share of voice.",
+      "cboMetrics" : {
+        
+        "Engagement": "Brand Engagement"
+        ,
+        
+        "Awareness": "Brand Awareness"
+        ,
+        
+        "Loyalty": "Brand Loyalty"
+        ,
+        
+        "Voice": "Share of Voice"
+        
+      },
+      "metrics": {
+        "Brand Engagement": "How people interact with your brand",
+        "Brand Awareness": "Recognition levels, both prompted and unprompted.",
+        "Brand Loyalty": "The value of your brand, based on loyalty, perception, and association.",
+        "Share of Voice": "Your brand’s presence versus competitors across media."
+      },
+      "comparisonTitle": "CMO vs. CBO - What’s the Difference?",
+      "comparisonSubtitle": "Together, they align short-term performance with long-term brand strength - -driving results today, while building relevance for tomorrow.",
+      "comparison": {
+        "Interim CMO": "Focuses on growth strategy, marketing performance, and customer acquisition.",
+        "Interim CBO": "Focuses on brand clarity, consistency, and long-term value creation."
+      },
+      "roles": {
+        "CMO": "A part-time marketing leader who drives strategy, growth, and transformation - when you need it, without long-term commitment.",
+        "CBO": "A part-time brand leader who shapes and strengthens your brand -aligning identity with strategy, without full-time cost."
+      },
+      "deliverables0" : {
+        "Strategic": "Strategic Brand Leadership",
+        "Clear": "Clear Brand Positioning",
+        "Consistency Across Touchpoints": "Consistency Across Touchpoints",
+        "Adaptability & Innovation": "Adaptability & Innovation",
+        "Internal Brand Alignment": "Internal Brand Alignment",
+        "Performance-Driven Brand Management": "Performance-Driven Brand Management",
+        "Customer-Centric Experience": "Customer-Centric Experience"
+      },
+      "deliverables": {
+        "Strategic Brand Leadership": "I define and evolve your brand’s identity to align with business goals and market expectations.",
+        "Clear Brand Positioning": "I craft a sharp, differentiated brand strategy that resonates with your audience and drives long-term value",
+        "Consistency Across Touchpoints": "From campaigns to customer service, I ensure your brand shows up consistently - visually and experientially.",
+        "Adaptability & Innovation": "I monitor trends and feedback to keep your brand relevant and competitive in a fast-changing world.",
+        "Internal Brand Alignment": "I engage teams around a shared vision - turning employees into brand advocates.",
+        "Performance-Driven Brand Management": "I track brand health, analyze audience engagement, and use data to sharpen your brand’s impact.",
+        "Customer-Centric Experience": "I enhance every brand interaction - across UX, packaging, retail, and digital - to build emotional connection and loyalty."
+      }
+    },
+
+
+      "WhyWork": {
+        "title": "Why Work with me - \nInterim CMO / CBO?",
+        "subtitleStrong1": "Senior Impact. No Full-Time Overhead.",
+        "intro1": "I deliver executive-level leadership - fast, flexible, and cost-efficient.",
+        "subtitleStrong2": "What You Get:",
+        "points": {
+          "point1": "Strategic clarity and hands-on execution",
+          "point2": "Fast integration and immediate traction",
+          "point3": "Scalable support for growth, change, or launches",
+          "point4": "Fresh, objective perspective",
+          "point5": "Team alignment and leadership from day one"
+        },
+        "intro2": "Adapt Fast. Lead Strong. Deliver Results. I align quickly, set clear direction, \nand drive momentum - without wasting time."
+      },
+
+
+        "services": {
+          "title": "Fields of Expertise",
+          "description": {
+            "line1": "From strategic leadership to hands-on",
+            "line2": "transformation - these four pillars define how I help",
+            "line3": "brands grow, adapt, and lead in dynamic markets."
+          },
+          "subtitle": "What I deliver:",
+          "deliverables": [
+            "From Marketing Leader to Growth Architect",
+            "Brand Navigator",
+            "Marketing consultancy Lab",
+            "Trends in Marketing & Brand Management"
+          ],
+          "labels": {
+            "growth": "Growth Architect",
+            "trends": "Trends",
+            "consultancy": "Consultancy Lab",
+            "brand": "Brand\nNavigator"
+          }
+        },
+
+          "growthArchitect": {
+            "heading": "From Marketing Leader to <1/> Growth Architect",
+            "paragraph1": "In times of rapid change, companies need more than marketing - they need <1/> strategic leadership that connects brand, technology, and performance. <2/> As a Growth Architect, I help businesses stay relevant, create value, and lead <3/> through transformation. Not by reacting - by building what’s next.",
+            "subheading": "My 5 Strategic Modules",
+            "services": {
+              "customerCentricity": {
+                "title": "Customer Centricity & Engagement",
+                "description": "Build deeper, data-driven relationships through active listening and tailored action."
+              },
+              "technologyData": {
+                "title": "Technology & Data",
+                "description": "Use modern MarTech and analytics to make faster, smarter marketing decisions."
+              },
+              "brandStrategy": {
+                "title": "Brand Strategy",
+                "description": "Strengthen identity, consistency, and emotional impact across all touchpoints."
+              },
+              "marketingOutreach": {
+                "title": "Marketing Outreach",
+                "description": "Boost visibility with integrated communication and memorable brand experiences."
+              },
+              "revenueGrowth": {
+                "title": "Revenue Growth",
+                "description": "Drive results through high-performing, tech-enabled campaigns."
+              }
+            },
+            "imageLabel": "Growth Architect"
+          }
+        
+      
+    
+  
+
+    
+  
+  
+}

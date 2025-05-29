@@ -1,0 +1,128 @@
+.services-section {
+    background: linear-gradient(to bottom right, #f8fbff, #eef4ff);
+    padding: 100px 0px;
+    text-align: center;
+  }
+  
+  .services-inner {
+   
+    margin: 0 auto;
+  }
+  .services-header {
+
+    /* margin: 1rem auto; */
+    margin-bottom: 4rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .title-services  {
+    font-size: 36px;
+    font-weight: 700;
+    color: #111827;
+    margin-bottom: 10px;
+    margin-top: 2rem;
+    
+  }
+  
+  .title-services  .highlight {
+    color: #418FDE;
+  }
+  
+  .subtitle-services  {
+    font-size: 18px;
+    font-weight: 600;
+    color: #418FDE;
+    margin-bottom: 10px;
+  }
+  
+  .description-services  {
+    font-size: 16px;
+    color: #2D2926;
+     margin-bottom: 50px;
+  }
+  
+  .services-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    /* grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); */
+    gap: 40px 30px;
+    margin-bottom: 60px;
+    padding: 40px 40px;
+  }
+  
+  .service-card {
+    text-align: left;
+  }
+  
+  .service-icon-1 {
+    width: 40px;
+    height: 40px;
+    margin-bottom: 20px;
+  }
+  
+  .service-card h4 {
+    font-size: 18px;
+    font-weight: 700;
+    margin-bottom: 10px;
+    color: #111827;
+  }
+  
+  .service-card p {
+    font-size: 15px;
+    color: #4b5563;
+    line-height: 1.6;
+  }
+  
+  .services-button {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    text-align: center;
+    align-self: center;
+    gap: 1rem;
+  }
+  
+  .cta-button-services {
+    min-width: 240px;
+    width: 30%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    width: 15%;
+    background: #418FDE;
+    color: white;
+    font-size: 16px;
+    padding: 5px 38px;
+    border-radius: 999px;
+    border: none;
+    cursor: pointer;
+    transition: background 0.3s ease;
+  }
+  .cta-button-interim {
+    width: auton;
+    padding: 2rem 0.5rem;
+    background: #418FDE;
+    color: white;
+    font-size: 16px;
+    padding: 5px 38px;
+    border-radius: 2px;
+    border: none;
+    cursor: pointer;
+    transition: background 0.3s ease;
+  }
+  
+  .cta-button span {
+    margin-left: 8px;
+  }
+  
+  .cta-button:hover {
+    background: #2563eb;
+  }
+  
